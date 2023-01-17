@@ -1,0 +1,3058 @@
+{
+  "id":"LTZLBBVK",
+  "orderItems":[
+    {
+      "orderType":"HOTEL_BOOKING",
+      "id":"2304010501",
+      "hotelBooking":{
+        "folderNumber":"LTZLBBVK",
+        "origin":{
+          "creationUserInfo":"VIDEOT",
+          "creationDate":"2022-11-15T17:56:00+01:00",
+          "latestVersion":{
+            "type":"TARS",
+            "cro":"INT",
+            "subCro":"INT",
+            "description":"ACCORHOTELS.COM"
+          },
+          "first":{
+            "type":"TARS",
+            "cro":"INT",
+            "subCro":"INT",
+            "description":"ACCORHOTELS.COM"
+          }
+        },
+        "hotel":{
+          "localization":{
+            "environmentCode":"TOW",
+            "address":{
+              "zipCode":"75001",
+              "country":"France",
+              "city":"PARIS",
+              "street":"8 Place Marguerite de Navarre",
+              "countryCode":"FR"
+            },
+            "gps":{
+              "lng":"2.346531",
+              "lat":"48.86053"
+            },
+            "environment":{
+              "code":"TOW",
+              "label":"In the centre of town"
+            }
+          },
+          "accommodations":[
+            {
+              "amenities":[
+                {
+                  "name":"FOOD_AND_BEVERAGE",
+                  "facilities":[
+                    {
+                      "name":"FOOD_AND_BEVERAGE_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Coffee/tea making facilities",
+                          "paying":false,
+                          "code":"coffeeteafaciliti"
+                        },
+                        {
+                          "name":"Mini Bar",
+                          "paying":true,
+                          "code":"minibararMinib"
+                        }
+                      ],
+                      "label":"Food And Beverage Facilities"
+                    }
+                  ],
+                  "label":"Food And Beverage"
+                },
+                {
+                  "name":"BATHROOM",
+                  "amenities":[
+                    {
+                      "value":"Separate toilet area",
+                      "code":"TOILET_TYPE004"
+                    },
+                    {
+                      "value":"Private bathroom",
+                      "code":"PRIVATE_BATHROOM"
+                    }
+                  ],
+                  "label":"Bathroom",
+                  "facilities":[
+                    {
+                      "name":"BATHROOM_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Accessible bathroom",
+                          "paying":false,
+                          "code":"accessiblebathroombath"
+                        },
+                        {
+                          "name":"Hair dryer in bathroom",
+                          "paying":false,
+                          "code":"hairdryerb"
+                        }
+                      ],
+                      "label":"Bathroom Facilities"
+                    }
+                  ]
+                },
+                {
+                  "name":"MEDIA_AND_TECHNOLOGY",
+                  "amenities":[
+                    {
+                      "value":"phone"
+                    }
+                  ],
+                  "label":"Media And Technology",
+                  "facilities":[
+                    {
+                      "name":"TV_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Satellite/cable colour TV",
+                          "paying":false,
+                          "code":"satellitecable"
+                        },
+                        {
+                          "name":"Children's TV Channels",
+                          "paying":false,
+                          "code":"cartoontvchan"
+                        },
+                        {
+                          "name":"Music TV channels",
+                          "paying":false,
+                          "code":"musictvchanne"
+                        },
+                        {
+                          "name":"TV with on-screen billing info",
+                          "paying":false,
+                          "code":"bill"
+                        },
+                        {
+                          "name":"In-house movies",
+                          "paying":true,
+                          "code":"inhousemovies"
+                        },
+                        {
+                          "name":"Pay per view channel(s)",
+                          "paying":true,
+                          "code":"payper"
+                        }
+                      ],
+                      "label":"Tv Facilities"
+                    },
+                    {
+                      "name":"INTERNET_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Data port in room",
+                          "paying":false,
+                          "code":"dataportro"
+                        },
+                        {
+                          "name":"RJ 11 Outlet",
+                          "paying":false,
+                          "code":"rj11outletoutl"
+                        },
+                        {
+                          "name":"Wireless internet in your room",
+                          "paying":false,
+                          "code":"internetconnectivitywifi"
+                        },
+                        {
+                          "name":"RJ 45 Outlet",
+                          "paying":false,
+                          "code":"rj45outletoutl"
+                        }
+                      ],
+                      "label":"Internet Facilities"
+                    },
+                    {
+                      "name":"PHONE_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Direct dial telephone",
+                          "paying":false,
+                          "code":"directdialtel"
+                        }
+                      ],
+                      "label":"Phone Facilities"
+                    },
+                    {
+                      "name":"COMPLEMENTARY_ELEMENTS",
+                      "items":[
+                        {
+                          "name":"Radio",
+                          "paying":false,
+                          "code":"radio"
+                        }
+                      ],
+                      "label":"Complementary Elements"
+                    }
+                  ]
+                },
+                {
+                  "name":"SERVICE_AND_EQUIPMENT",
+                  "amenities":[
+
+                  ],
+                  "label":"Service And Equipment",
+                  "facilities":[
+                    {
+                      "name":"ACCESSIBILITY_AND_SECURITY",
+                      "items":[
+                        {
+                          "name":"Dead bolt in rooms",
+                          "paying":false,
+                          "code":"deadboltro"
+                        },
+                        {
+                          "name":"Keycard-operated door locks",
+                          "paying":false,
+                          "code":"keycardoperatedloc"
+                        },
+                        {
+                          "name":"Emergency info in rooms",
+                          "paying":false,
+                          "code":"emergencyinforoo"
+                        },
+                        {
+                          "name":"Alarm clock",
+                          "paying":false,
+                          "code":"accandsec.alarmclockclo"
+                        },
+                        {
+                          "name":"Safe deposit box in room",
+                          "paying":false,
+                          "code":"safedepositro"
+                        },
+                        {
+                          "name":"Message alert",
+                          "paying":false,
+                          "code":"messagealert"
+                        }
+                      ],
+                      "label":"Accessibility And Security"
+                    },
+                    {
+                      "name":"ROOM_SERVICES",
+                      "items":[
+                        {
+                          "name":"Automatic wake up call",
+                          "paying":false,
+                          "code":"automaticwakeca"
+                        },
+                        {
+                          "name":"Breakfast in bed",
+                          "paying":false,
+                          "code":"breakfastinbe"
+                        },
+                        {
+                          "name":"Operator wake up call",
+                          "paying":false,
+                          "code":"operatorwakeca"
+                        }
+                      ],
+                      "label":"Room Services"
+                    },
+                    {
+                      "name":"COMFORT_FEATURES",
+                      "items":[
+                        {
+                          "name":"Soundproof doors",
+                          "paying":false,
+                          "code":"soundproofdoorsdoor"
+                        },
+                        {
+                          "name":"Double Glazing",
+                          "paying":false,
+                          "code":"doubleGlazingGlazi"
+                        },
+                        {
+                          "name":"Alarm clock",
+                          "paying":false,
+                          "code":"alarmclockclo"
+                        },
+                        {
+                          "name":"Blackout Facilities",
+                          "paying":false,
+                          "code":"blackoutFacilitiesFacili"
+                        },
+                        {
+                          "name":"Soundproof room",
+                          "paying":false,
+                          "code":"soundproofedroomro"
+                        }
+                      ],
+                      "label":"Comfort Features"
+                    },
+                    {
+                      "name":"TEMPERATURE_AIR_CONTROL",
+                      "items":[
+                        {
+                          "name":"Air Conditioning",
+                          "paying":false,
+                          "code":"airconditioningndairconditioning"
+                        }
+                      ],
+                      "label":"Temperature Air Control"
+                    },
+                    {
+                      "name":"WORKING_AREA",
+                      "items":[
+                        {
+                          "name":"Business Desk",
+                          "paying":false,
+                          "code":"workdesk"
+                        }
+                      ],
+                      "label":"Working Area"
+                    },
+                    {
+                      "name":"ELECTRIC_FACILITIES",
+                      "items":[
+                        {
+                          "name":"220/240 V AC",
+                          "paying":false,
+                          "code":"220/240vaC"
+                        }
+                      ],
+                      "label":"Electric Facilities"
+                    }
+                  ]
+                }
+              ],
+              "surface":{
+                "squareMeter":16,
+                "squareFeet":172
+              },
+              "configuration":[
+                {
+                  "beddings":{
+                    "doubleBed":1,
+                    "details":[
+                      {
+                        "type":"SINGLE_SOFA_BED",
+                        "quantity":1
+                      },
+                      {
+                        "type":"QUEEN_SIZE_BED",
+                        "quantity":1
+                      }
+                    ],
+                    "singleBed":0,
+                    "extra":{
+                      "childBed":true,
+                      "adultBed":false,
+                      "crib":true
+                    }
+                  },
+                  "maxOccupancy":{
+                    "maxChildAge":15,
+                    "adult":3,
+                    "children":2,
+                    "pax":3
+                  },
+                  "assets":[
+                    "BALCONY"
+                  ],
+                  "situation":{
+                    "accessibility":true,
+                    "views":[
+                      "GARDEN_SIDE"
+                    ]
+                  }
+                }
+              ],
+              "description":"Combine work and relaxation in complete serenity. Our Superior Room blends modernity, ergonomics and high-tech equipment: tea and coffee making facilities, minibar and free dial-up Internet. High-speed connection: EUR 12 for 24h. For up to three people",
+              "inventoryCount":131,
+              "label":"Superior Room with one queen-size bed and sofa",
+              "classification":{
+                "type":"ROOM",
+                "standard":"SUPERIOR"
+              },
+              "topAmenities":[
+                "Wireless internet in your room",
+                "Coffee/tea making facilities",
+                "Satellite/cable colour TV",
+                "Business Desk",
+                "Direct dial telephone"
+              ],
+              "extendedStay":true,
+              "medias":{
+                "photos":[
+                  {
+                    "1024x768":"https://www.ahstatic.com/photos/0785_roqsb_00_p_1024x768.jpg",
+                    "346x260":"https://www.ahstatic.com/photos/0785_roqsb_00_p_346x260.jpg"
+                  },
+                  {
+                    "346x260":"https://www.ahstatic.com/photos/0785_roqsb_01_p_346x260.jpg"
+                  },
+                  {
+                    "1024x768":"https://www.ahstatic.com/photos/0785_roqsb_02_p_1024x768.jpg",
+                    "346x260":"https://www.ahstatic.com/photos/0785_roqsb_02_p_346x260.jpg"
+                  }
+                ],
+                "total":3
+              },
+              "shortLabel":"1 Qn bed + Sofa Sup",
+              "id":"QSB",
+              "floorSpace":{
+                "value":16,
+                "unit":"SQUARE_METER"
+              },
+              "upsells":[
+                "QEE"
+              ]
+            },
+            {
+              "amenities":[
+                {
+                  "name":"FOOD_AND_BEVERAGE",
+                  "facilities":[
+                    {
+                      "name":"FOOD_AND_BEVERAGE_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Mini Bar",
+                          "paying":true,
+                          "code":"minibararMinib"
+                        },
+                        {
+                          "name":"Coffee/tea making facilities",
+                          "paying":false,
+                          "code":"coffeeteafaciliti"
+                        }
+                      ],
+                      "label":"Food And Beverage Facilities"
+                    }
+                  ],
+                  "label":"Food And Beverage"
+                },
+                {
+                  "name":"BATHROOM",
+                  "amenities":[
+
+                  ],
+                  "label":"Bathroom",
+                  "facilities":[
+                    {
+                      "name":"BATHROOM_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Accessible bathroom",
+                          "paying":false,
+                          "code":"accessiblebathroombath"
+                        },
+                        {
+                          "name":"Hair dryer in bathroom",
+                          "paying":false,
+                          "code":"hairdryerb"
+                        }
+                      ],
+                      "label":"Bathroom Facilities"
+                    }
+                  ]
+                },
+                {
+                  "name":"MEDIA_AND_TECHNOLOGY",
+                  "amenities":[
+                    {
+                      "value":"phone"
+                    }
+                  ],
+                  "label":"Media And Technology",
+                  "facilities":[
+                    {
+                      "name":"TV_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Satellite/cable colour TV",
+                          "paying":false,
+                          "code":"satellitecable"
+                        },
+                        {
+                          "name":"Children's TV Channels",
+                          "paying":false,
+                          "code":"cartoontvchan"
+                        },
+                        {
+                          "name":"Music TV channels",
+                          "paying":false,
+                          "code":"musictvchanne"
+                        },
+                        {
+                          "name":"TV with on-screen billing info",
+                          "paying":false,
+                          "code":"bill"
+                        },
+                        {
+                          "name":"In-house movies",
+                          "paying":true,
+                          "code":"inhousemovies"
+                        },
+                        {
+                          "name":"Pay per view channel(s)",
+                          "paying":true,
+                          "code":"payper"
+                        }
+                      ],
+                      "label":"Tv Facilities"
+                    },
+                    {
+                      "name":"INTERNET_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Data port in room",
+                          "paying":false,
+                          "code":"dataportro"
+                        },
+                        {
+                          "name":"RJ 11 Outlet",
+                          "paying":false,
+                          "code":"rj11outletoutl"
+                        },
+                        {
+                          "name":"Wireless internet in your room",
+                          "paying":false,
+                          "code":"internetconnectivitywifi"
+                        },
+                        {
+                          "name":"RJ 45 Outlet",
+                          "paying":false,
+                          "code":"rj45outletoutl"
+                        }
+                      ],
+                      "label":"Internet Facilities"
+                    },
+                    {
+                      "name":"PHONE_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Direct dial telephone",
+                          "paying":false,
+                          "code":"directdialtel"
+                        }
+                      ],
+                      "label":"Phone Facilities"
+                    },
+                    {
+                      "name":"COMPLEMENTARY_ELEMENTS",
+                      "items":[
+                        {
+                          "name":"Radio",
+                          "paying":false,
+                          "code":"radio"
+                        }
+                      ],
+                      "label":"Complementary Elements"
+                    }
+                  ]
+                },
+                {
+                  "name":"SERVICE_AND_EQUIPMENT",
+                  "amenities":[
+
+                  ],
+                  "label":"Service And Equipment",
+                  "facilities":[
+                    {
+                      "name":"ACCESSIBILITY_AND_SECURITY",
+                      "items":[
+                        {
+                          "name":"Dead bolt in rooms",
+                          "paying":false,
+                          "code":"deadboltro"
+                        },
+                        {
+                          "name":"Keycard-operated door locks",
+                          "paying":false,
+                          "code":"keycardoperatedloc"
+                        },
+                        {
+                          "name":"Emergency info in rooms",
+                          "paying":false,
+                          "code":"emergencyinforoo"
+                        },
+                        {
+                          "name":"Alarm clock",
+                          "paying":false,
+                          "code":"accandsec.alarmclockclo"
+                        },
+                        {
+                          "name":"Safe deposit box in room",
+                          "paying":false,
+                          "code":"safedepositro"
+                        },
+                        {
+                          "name":"Message alert",
+                          "paying":false,
+                          "code":"messagealert"
+                        }
+                      ],
+                      "label":"Accessibility And Security"
+                    },
+                    {
+                      "name":"ROOM_SERVICES",
+                      "items":[
+                        {
+                          "name":"Automatic wake up call",
+                          "paying":false,
+                          "code":"automaticwakeca"
+                        },
+                        {
+                          "name":"Breakfast in bed",
+                          "paying":false,
+                          "code":"breakfastinbe"
+                        },
+                        {
+                          "name":"Operator wake up call",
+                          "paying":false,
+                          "code":"operatorwakeca"
+                        }
+                      ],
+                      "label":"Room Services"
+                    },
+                    {
+                      "name":"COMFORT_FEATURES",
+                      "items":[
+                        {
+                          "name":"Soundproof doors",
+                          "paying":false,
+                          "code":"soundproofdoorsdoor"
+                        },
+                        {
+                          "name":"Double Glazing",
+                          "paying":false,
+                          "code":"doubleGlazingGlazi"
+                        },
+                        {
+                          "name":"Alarm clock",
+                          "paying":false,
+                          "code":"alarmclockclo"
+                        },
+                        {
+                          "name":"Blackout Facilities",
+                          "paying":false,
+                          "code":"blackoutFacilitiesFacili"
+                        },
+                        {
+                          "name":"Soundproof room",
+                          "paying":false,
+                          "code":"soundproofedroomro"
+                        }
+                      ],
+                      "label":"Comfort Features"
+                    },
+                    {
+                      "name":"TEMPERATURE_AIR_CONTROL",
+                      "items":[
+                        {
+                          "name":"Air Conditioning",
+                          "paying":false,
+                          "code":"airconditioningndairconditioning"
+                        }
+                      ],
+                      "label":"Temperature Air Control"
+                    },
+                    {
+                      "name":"WORKING_AREA",
+                      "items":[
+                        {
+                          "name":"Business Desk",
+                          "paying":false,
+                          "code":"workdesk"
+                        }
+                      ],
+                      "label":"Working Area"
+                    },
+                    {
+                      "name":"ELECTRIC_FACILITIES",
+                      "items":[
+                        {
+                          "name":"220/240 V AC",
+                          "paying":false,
+                          "code":"220/240vaC"
+                        }
+                      ],
+                      "label":"Electric Facilities"
+                    }
+                  ]
+                }
+              ],
+              "surface":{
+
+              },
+              "configuration":[
+                {
+                  "beddings":{
+                    "doubleBed":1,
+                    "details":[
+
+                    ],
+                    "singleBed":0,
+                    "extra":{
+                      "childBed":true,
+                      "adultBed":false,
+                      "crib":true
+                    }
+                  },
+                  "maxOccupancy":{
+                    "maxChildAge":15,
+                    "adult":3,
+                    "children":2,
+                    "pax":3
+                  },
+                  "assets":[
+
+                  ],
+                  "situation":{
+                    "accessibility":true,
+                    "views":[
+
+                    ]
+                  }
+                }
+              ],
+              "description":"Unique features designed especially for you, the Executive Room offers VIP treatment: free WIFI and minibar, Nespresso coffee and wellness kit with bathrobe and slippers. For up to 3 people.",
+              "inventoryCount":37,
+              "label":"Executive Room with 1 queen-size bed.",
+              "classification":{
+                "type":"SUITE",
+                "standard":"STANDARD"
+              },
+              "topAmenities":[
+                "Wireless internet in your room",
+                "Coffee/tea making facilities",
+                "Satellite/cable colour TV",
+                "Business Desk",
+                "Direct dial telephone"
+              ],
+              "extendedStay":true,
+              "medias":{
+                "photos":[
+                  {
+                    "346x260":"https://www.ahstatic.com/photos/0785_roqee_00_p_346x260.jpg"
+                  }
+                ],
+                "total":1
+              },
+              "shortLabel":"1 Qn bed Exec",
+              "id":"QEE",
+              "upsells":[
+
+              ]
+            },
+            {
+              "amenities":[
+                {
+                  "name":"FOOD_AND_BEVERAGE",
+                  "facilities":[
+                    {
+                      "name":"FOOD_AND_BEVERAGE_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Coffee/tea making facilities",
+                          "paying":false,
+                          "code":"coffeeteafaciliti"
+                        },
+                        {
+                          "name":"Mini Bar",
+                          "paying":true,
+                          "code":"minibararMinib"
+                        }
+                      ],
+                      "label":"Food And Beverage Facilities"
+                    }
+                  ],
+                  "label":"Food And Beverage"
+                },
+                {
+                  "name":"BATHROOM",
+                  "amenities":[
+
+                  ],
+                  "label":"Bathroom",
+                  "facilities":[
+                    {
+                      "name":"BATHROOM_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Accessible bathroom",
+                          "paying":false,
+                          "code":"accessiblebathroombath"
+                        },
+                        {
+                          "name":"Hair dryer in bathroom",
+                          "paying":false,
+                          "code":"hairdryerb"
+                        }
+                      ],
+                      "label":"Bathroom Facilities"
+                    }
+                  ]
+                },
+                {
+                  "name":"MEDIA_AND_TECHNOLOGY",
+                  "amenities":[
+                    {
+                      "value":"phone"
+                    }
+                  ],
+                  "label":"Media And Technology",
+                  "facilities":[
+                    {
+                      "name":"TV_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Satellite/cable colour TV",
+                          "paying":false,
+                          "code":"satellitecable"
+                        },
+                        {
+                          "name":"Children's TV Channels",
+                          "paying":false,
+                          "code":"cartoontvchan"
+                        },
+                        {
+                          "name":"Music TV channels",
+                          "paying":false,
+                          "code":"musictvchanne"
+                        },
+                        {
+                          "name":"TV with on-screen billing info",
+                          "paying":false,
+                          "code":"bill"
+                        },
+                        {
+                          "name":"In-house movies",
+                          "paying":true,
+                          "code":"inhousemovies"
+                        },
+                        {
+                          "name":"Pay per view channel(s)",
+                          "paying":true,
+                          "code":"payper"
+                        }
+                      ],
+                      "label":"Tv Facilities"
+                    },
+                    {
+                      "name":"INTERNET_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Data port in room",
+                          "paying":false,
+                          "code":"dataportro"
+                        },
+                        {
+                          "name":"RJ 11 Outlet",
+                          "paying":false,
+                          "code":"rj11outletoutl"
+                        },
+                        {
+                          "name":"Wireless internet in your room",
+                          "paying":false,
+                          "code":"internetconnectivitywifi"
+                        },
+                        {
+                          "name":"RJ 45 Outlet",
+                          "paying":false,
+                          "code":"rj45outletoutl"
+                        }
+                      ],
+                      "label":"Internet Facilities"
+                    },
+                    {
+                      "name":"PHONE_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Direct dial telephone",
+                          "paying":false,
+                          "code":"directdialtel"
+                        }
+                      ],
+                      "label":"Phone Facilities"
+                    },
+                    {
+                      "name":"COMPLEMENTARY_ELEMENTS",
+                      "items":[
+                        {
+                          "name":"Radio",
+                          "paying":false,
+                          "code":"radio"
+                        }
+                      ],
+                      "label":"Complementary Elements"
+                    }
+                  ]
+                },
+                {
+                  "name":"SERVICE_AND_EQUIPMENT",
+                  "amenities":[
+
+                  ],
+                  "label":"Service And Equipment",
+                  "facilities":[
+                    {
+                      "name":"ACCESSIBILITY_AND_SECURITY",
+                      "items":[
+                        {
+                          "name":"Dead bolt in rooms",
+                          "paying":false,
+                          "code":"deadboltro"
+                        },
+                        {
+                          "name":"Keycard-operated door locks",
+                          "paying":false,
+                          "code":"keycardoperatedloc"
+                        },
+                        {
+                          "name":"Emergency info in rooms",
+                          "paying":false,
+                          "code":"emergencyinforoo"
+                        },
+                        {
+                          "name":"Alarm clock",
+                          "paying":false,
+                          "code":"accandsec.alarmclockclo"
+                        },
+                        {
+                          "name":"Safe deposit box in room",
+                          "paying":false,
+                          "code":"safedepositro"
+                        },
+                        {
+                          "name":"Message alert",
+                          "paying":false,
+                          "code":"messagealert"
+                        }
+                      ],
+                      "label":"Accessibility And Security"
+                    },
+                    {
+                      "name":"ROOM_SERVICES",
+                      "items":[
+                        {
+                          "name":"Automatic wake up call",
+                          "paying":false,
+                          "code":"automaticwakeca"
+                        },
+                        {
+                          "name":"Breakfast in bed",
+                          "paying":false,
+                          "code":"breakfastinbe"
+                        },
+                        {
+                          "name":"Operator wake up call",
+                          "paying":false,
+                          "code":"operatorwakeca"
+                        }
+                      ],
+                      "label":"Room Services"
+                    },
+                    {
+                      "name":"COMFORT_FEATURES",
+                      "items":[
+                        {
+                          "name":"Soundproof doors",
+                          "paying":false,
+                          "code":"soundproofdoorsdoor"
+                        },
+                        {
+                          "name":"Double Glazing",
+                          "paying":false,
+                          "code":"doubleGlazingGlazi"
+                        },
+                        {
+                          "name":"Alarm clock",
+                          "paying":false,
+                          "code":"alarmclockclo"
+                        },
+                        {
+                          "name":"Blackout Facilities",
+                          "paying":false,
+                          "code":"blackoutFacilitiesFacili"
+                        },
+                        {
+                          "name":"Soundproof room",
+                          "paying":false,
+                          "code":"soundproofedroomro"
+                        }
+                      ],
+                      "label":"Comfort Features"
+                    },
+                    {
+                      "name":"TEMPERATURE_AIR_CONTROL",
+                      "items":[
+                        {
+                          "name":"Air Conditioning",
+                          "paying":false,
+                          "code":"airconditioningndairconditioning"
+                        }
+                      ],
+                      "label":"Temperature Air Control"
+                    },
+                    {
+                      "name":"WORKING_AREA",
+                      "items":[
+                        {
+                          "name":"Business Desk",
+                          "paying":false,
+                          "code":"workdesk"
+                        }
+                      ],
+                      "label":"Working Area"
+                    },
+                    {
+                      "name":"ELECTRIC_FACILITIES",
+                      "items":[
+                        {
+                          "name":"220/240 V AC",
+                          "paying":false,
+                          "code":"220/240vaC"
+                        }
+                      ],
+                      "label":"Electric Facilities"
+                    }
+                  ]
+                }
+              ],
+              "surface":{
+                "squareMeter":74,
+                "squareFeet":796
+              },
+              "configuration":[
+                {
+                  "beddings":{
+                    "doubleBed":1,
+                    "details":[
+                      {
+                        "type":"DOUBLE_BED",
+                        "quantity":1
+                      },
+                      {
+                        "type":"DOUBLE_SOFA_BED",
+                        "quantity":1
+                      }
+                    ],
+                    "singleBed":0,
+                    "extra":{
+                      "childBed":true,
+                      "adultBed":false,
+                      "crib":true
+                    }
+                  },
+                  "maxOccupancy":{
+                    "maxChildAge":15,
+                    "adult":3,
+                    "children":3,
+                    "pax":4
+                  },
+                  "assets":[
+                    "PRIVATE_POOL"
+                  ],
+                  "situation":{
+                    "accessibility":false,
+                    "views":[
+                      "BAY_VIEW"
+                    ]
+                  }
+                }
+              ],
+              "description":"Combine work and relaxation in complete serenity. Our Superior Room blends modernity, ergonomics and high-tech equipment: tea and coffee making facilities, minibar and free dial-up Internet . High-speed connection: EUR 12 for 24h. For up to four people",
+              "inventoryCount":76,
+              "label":"Superior Room with one double bed and sofa",
+              "classification":{
+                "type":"ROOM",
+                "standard":"STANDARD"
+              },
+              "topAmenities":[
+                "Wireless internet in your room",
+                "Coffee/tea making facilities",
+                "Satellite/cable colour TV",
+                "Business Desk",
+                "Direct dial telephone"
+              ],
+              "extendedStay":true,
+              "medias":{
+                "photos":[
+                  {
+                    "346x260":"https://www.ahstatic.com/photos/0785_rodfb_00_p_346x260.jpg"
+                  }
+                ],
+                "total":1
+              },
+              "shortLabel":"1 Db bed + Sofa Sup",
+              "id":"DFB",
+              "floorSpace":{
+                "value":74,
+                "unit":"SQUARE_METER"
+              },
+              "upsells":[
+                "DFE"
+              ]
+            },
+            {
+              "amenities":[
+                {
+                  "name":"FOOD_AND_BEVERAGE",
+                  "facilities":[
+                    {
+                      "name":"FOOD_AND_BEVERAGE_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Mini Bar",
+                          "paying":true,
+                          "code":"minibararMinib"
+                        },
+                        {
+                          "name":"Coffee/tea making facilities",
+                          "paying":false,
+                          "code":"coffeeteafaciliti"
+                        }
+                      ],
+                      "label":"Food And Beverage Facilities"
+                    }
+                  ],
+                  "label":"Food And Beverage"
+                },
+                {
+                  "name":"BATHROOM",
+                  "amenities":[
+
+                  ],
+                  "label":"Bathroom",
+                  "facilities":[
+                    {
+                      "name":"BATHROOM_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Accessible bathroom",
+                          "paying":false,
+                          "code":"accessiblebathroombath"
+                        },
+                        {
+                          "name":"Hair dryer in bathroom",
+                          "paying":false,
+                          "code":"hairdryerb"
+                        }
+                      ],
+                      "label":"Bathroom Facilities"
+                    }
+                  ]
+                },
+                {
+                  "name":"MEDIA_AND_TECHNOLOGY",
+                  "amenities":[
+                    {
+                      "value":"phone"
+                    }
+                  ],
+                  "label":"Media And Technology",
+                  "facilities":[
+                    {
+                      "name":"TV_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Satellite/cable colour TV",
+                          "paying":false,
+                          "code":"satellitecable"
+                        },
+                        {
+                          "name":"Children's TV Channels",
+                          "paying":false,
+                          "code":"cartoontvchan"
+                        },
+                        {
+                          "name":"Music TV channels",
+                          "paying":false,
+                          "code":"musictvchanne"
+                        },
+                        {
+                          "name":"TV with on-screen billing info",
+                          "paying":false,
+                          "code":"bill"
+                        },
+                        {
+                          "name":"In-house movies",
+                          "paying":true,
+                          "code":"inhousemovies"
+                        },
+                        {
+                          "name":"Pay per view channel(s)",
+                          "paying":true,
+                          "code":"payper"
+                        }
+                      ],
+                      "label":"Tv Facilities"
+                    },
+                    {
+                      "name":"INTERNET_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Data port in room",
+                          "paying":false,
+                          "code":"dataportro"
+                        },
+                        {
+                          "name":"RJ 11 Outlet",
+                          "paying":false,
+                          "code":"rj11outletoutl"
+                        },
+                        {
+                          "name":"Wireless internet in your room",
+                          "paying":false,
+                          "code":"internetconnectivitywifi"
+                        },
+                        {
+                          "name":"RJ 45 Outlet",
+                          "paying":false,
+                          "code":"rj45outletoutl"
+                        }
+                      ],
+                      "label":"Internet Facilities"
+                    },
+                    {
+                      "name":"PHONE_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Direct dial telephone",
+                          "paying":false,
+                          "code":"directdialtel"
+                        }
+                      ],
+                      "label":"Phone Facilities"
+                    },
+                    {
+                      "name":"COMPLEMENTARY_ELEMENTS",
+                      "items":[
+                        {
+                          "name":"Radio",
+                          "paying":false,
+                          "code":"radio"
+                        }
+                      ],
+                      "label":"Complementary Elements"
+                    }
+                  ]
+                },
+                {
+                  "name":"SERVICE_AND_EQUIPMENT",
+                  "amenities":[
+
+                  ],
+                  "label":"Service And Equipment",
+                  "facilities":[
+                    {
+                      "name":"ACCESSIBILITY_AND_SECURITY",
+                      "items":[
+                        {
+                          "name":"Dead bolt in rooms",
+                          "paying":false,
+                          "code":"deadboltro"
+                        },
+                        {
+                          "name":"Keycard-operated door locks",
+                          "paying":false,
+                          "code":"keycardoperatedloc"
+                        },
+                        {
+                          "name":"Emergency info in rooms",
+                          "paying":false,
+                          "code":"emergencyinforoo"
+                        },
+                        {
+                          "name":"Alarm clock",
+                          "paying":false,
+                          "code":"accandsec.alarmclockclo"
+                        },
+                        {
+                          "name":"Safe deposit box in room",
+                          "paying":false,
+                          "code":"safedepositro"
+                        },
+                        {
+                          "name":"Message alert",
+                          "paying":false,
+                          "code":"messagealert"
+                        }
+                      ],
+                      "label":"Accessibility And Security"
+                    },
+                    {
+                      "name":"ROOM_SERVICES",
+                      "items":[
+                        {
+                          "name":"Automatic wake up call",
+                          "paying":false,
+                          "code":"automaticwakeca"
+                        },
+                        {
+                          "name":"Breakfast in bed",
+                          "paying":false,
+                          "code":"breakfastinbe"
+                        },
+                        {
+                          "name":"Operator wake up call",
+                          "paying":false,
+                          "code":"operatorwakeca"
+                        }
+                      ],
+                      "label":"Room Services"
+                    },
+                    {
+                      "name":"COMFORT_FEATURES",
+                      "items":[
+                        {
+                          "name":"Soundproof doors",
+                          "paying":false,
+                          "code":"soundproofdoorsdoor"
+                        },
+                        {
+                          "name":"Double Glazing",
+                          "paying":false,
+                          "code":"doubleGlazingGlazi"
+                        },
+                        {
+                          "name":"Alarm clock",
+                          "paying":false,
+                          "code":"alarmclockclo"
+                        },
+                        {
+                          "name":"Blackout Facilities",
+                          "paying":false,
+                          "code":"blackoutFacilitiesFacili"
+                        },
+                        {
+                          "name":"Soundproof room",
+                          "paying":false,
+                          "code":"soundproofedroomro"
+                        }
+                      ],
+                      "label":"Comfort Features"
+                    },
+                    {
+                      "name":"TEMPERATURE_AIR_CONTROL",
+                      "items":[
+                        {
+                          "name":"Air Conditioning",
+                          "paying":false,
+                          "code":"airconditioningndairconditioning"
+                        }
+                      ],
+                      "label":"Temperature Air Control"
+                    },
+                    {
+                      "name":"WORKING_AREA",
+                      "items":[
+                        {
+                          "name":"Business Desk",
+                          "paying":false,
+                          "code":"workdesk"
+                        }
+                      ],
+                      "label":"Working Area"
+                    },
+                    {
+                      "name":"ELECTRIC_FACILITIES",
+                      "items":[
+                        {
+                          "name":"220/240 V AC",
+                          "paying":false,
+                          "code":"220/240vaC"
+                        }
+                      ],
+                      "label":"Electric Facilities"
+                    }
+                  ]
+                }
+              ],
+              "surface":{
+
+              },
+              "configuration":[
+                {
+                  "beddings":{
+                    "doubleBed":1,
+                    "details":[
+
+                    ],
+                    "singleBed":0,
+                    "extra":{
+                      "childBed":true,
+                      "adultBed":false,
+                      "crib":true
+                    }
+                  },
+                  "maxOccupancy":{
+                    "maxChildAge":15,
+                    "adult":3,
+                    "children":3,
+                    "pax":4
+                  },
+                  "assets":[
+
+                  ],
+                  "situation":{
+                    "accessibility":false,
+                    "views":[
+
+                    ]
+                  }
+                }
+              ],
+              "description":"Unique features designed especially for you, the Executive Room offers VIP treatment: free WIFI and minibar, Nespresso coffee and wellness kit with bathrobe and slippers. For up to 2 adults and 2 children.",
+              "inventoryCount":27,
+              "label":"Executive Room with 1 double bed and sofa",
+              "classification":{
+                "type":"ROOM",
+                "standard":"STANDARD"
+              },
+              "topAmenities":[
+                "Wireless internet in your room",
+                "Coffee/tea making facilities",
+                "Satellite/cable colour TV",
+                "Business Desk",
+                "Direct dial telephone"
+              ],
+              "extendedStay":true,
+              "medias":{
+                "photos":[
+                  {
+                    "346x260":"https://www.ahstatic.com/photos/0785_rodfe_00_p_346x260.jpg"
+                  }
+                ],
+                "total":1
+              },
+              "shortLabel":"1 Db bed +Sofa Exec",
+              "id":"DFE",
+              "upsells":[
+
+              ]
+            },
+            {
+              "amenities":[
+                {
+                  "name":"FOOD_AND_BEVERAGE",
+                  "facilities":[
+                    {
+                      "name":"FOOD_AND_BEVERAGE_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Coffee/tea making facilities",
+                          "paying":false,
+                          "code":"coffeeteafaciliti"
+                        },
+                        {
+                          "name":"Mini Bar",
+                          "paying":true,
+                          "code":"minibararMinib"
+                        }
+                      ],
+                      "label":"Food And Beverage Facilities"
+                    }
+                  ],
+                  "label":"Food And Beverage"
+                },
+                {
+                  "name":"BATHROOM",
+                  "amenities":[
+
+                  ],
+                  "label":"Bathroom",
+                  "facilities":[
+                    {
+                      "name":"BATHROOM_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Accessible bathroom",
+                          "paying":false,
+                          "code":"accessiblebathroombath"
+                        },
+                        {
+                          "name":"Hair dryer in bathroom",
+                          "paying":false,
+                          "code":"hairdryerb"
+                        }
+                      ],
+                      "label":"Bathroom Facilities"
+                    }
+                  ]
+                },
+                {
+                  "name":"MEDIA_AND_TECHNOLOGY",
+                  "amenities":[
+                    {
+                      "value":"phone"
+                    }
+                  ],
+                  "label":"Media And Technology",
+                  "facilities":[
+                    {
+                      "name":"TV_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Satellite/cable colour TV",
+                          "paying":false,
+                          "code":"satellitecable"
+                        },
+                        {
+                          "name":"Children's TV Channels",
+                          "paying":false,
+                          "code":"cartoontvchan"
+                        },
+                        {
+                          "name":"Music TV channels",
+                          "paying":false,
+                          "code":"musictvchanne"
+                        },
+                        {
+                          "name":"TV with on-screen billing info",
+                          "paying":false,
+                          "code":"bill"
+                        },
+                        {
+                          "name":"In-house movies",
+                          "paying":true,
+                          "code":"inhousemovies"
+                        },
+                        {
+                          "name":"Pay per view channel(s)",
+                          "paying":true,
+                          "code":"payper"
+                        }
+                      ],
+                      "label":"Tv Facilities"
+                    },
+                    {
+                      "name":"INTERNET_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Data port in room",
+                          "paying":false,
+                          "code":"dataportro"
+                        },
+                        {
+                          "name":"RJ 11 Outlet",
+                          "paying":false,
+                          "code":"rj11outletoutl"
+                        },
+                        {
+                          "name":"Wireless internet in your room",
+                          "paying":false,
+                          "code":"internetconnectivitywifi"
+                        },
+                        {
+                          "name":"RJ 45 Outlet",
+                          "paying":false,
+                          "code":"rj45outletoutl"
+                        }
+                      ],
+                      "label":"Internet Facilities"
+                    },
+                    {
+                      "name":"PHONE_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Direct dial telephone",
+                          "paying":false,
+                          "code":"directdialtel"
+                        }
+                      ],
+                      "label":"Phone Facilities"
+                    },
+                    {
+                      "name":"COMPLEMENTARY_ELEMENTS",
+                      "items":[
+                        {
+                          "name":"Radio",
+                          "paying":false,
+                          "code":"radio"
+                        }
+                      ],
+                      "label":"Complementary Elements"
+                    }
+                  ]
+                },
+                {
+                  "name":"SERVICE_AND_EQUIPMENT",
+                  "amenities":[
+
+                  ],
+                  "label":"Service And Equipment",
+                  "facilities":[
+                    {
+                      "name":"ACCESSIBILITY_AND_SECURITY",
+                      "items":[
+                        {
+                          "name":"Dead bolt in rooms",
+                          "paying":false,
+                          "code":"deadboltro"
+                        },
+                        {
+                          "name":"Keycard-operated door locks",
+                          "paying":false,
+                          "code":"keycardoperatedloc"
+                        },
+                        {
+                          "name":"Emergency info in rooms",
+                          "paying":false,
+                          "code":"emergencyinforoo"
+                        },
+                        {
+                          "name":"Alarm clock",
+                          "paying":false,
+                          "code":"accandsec.alarmclockclo"
+                        },
+                        {
+                          "name":"Safe deposit box in room",
+                          "paying":false,
+                          "code":"safedepositro"
+                        },
+                        {
+                          "name":"Message alert",
+                          "paying":false,
+                          "code":"messagealert"
+                        }
+                      ],
+                      "label":"Accessibility And Security"
+                    },
+                    {
+                      "name":"ROOM_SERVICES",
+                      "items":[
+                        {
+                          "name":"Automatic wake up call",
+                          "paying":false,
+                          "code":"automaticwakeca"
+                        },
+                        {
+                          "name":"Breakfast in bed",
+                          "paying":false,
+                          "code":"breakfastinbe"
+                        },
+                        {
+                          "name":"Operator wake up call",
+                          "paying":false,
+                          "code":"operatorwakeca"
+                        }
+                      ],
+                      "label":"Room Services"
+                    },
+                    {
+                      "name":"COMFORT_FEATURES",
+                      "items":[
+                        {
+                          "name":"Soundproof doors",
+                          "paying":false,
+                          "code":"soundproofdoorsdoor"
+                        },
+                        {
+                          "name":"Double Glazing",
+                          "paying":false,
+                          "code":"doubleGlazingGlazi"
+                        },
+                        {
+                          "name":"Alarm clock",
+                          "paying":false,
+                          "code":"alarmclockclo"
+                        },
+                        {
+                          "name":"Blackout Facilities",
+                          "paying":false,
+                          "code":"blackoutFacilitiesFacili"
+                        },
+                        {
+                          "name":"Soundproof room",
+                          "paying":false,
+                          "code":"soundproofedroomro"
+                        }
+                      ],
+                      "label":"Comfort Features"
+                    },
+                    {
+                      "name":"TEMPERATURE_AIR_CONTROL",
+                      "items":[
+                        {
+                          "name":"Air Conditioning",
+                          "paying":false,
+                          "code":"airconditioningndairconditioning"
+                        }
+                      ],
+                      "label":"Temperature Air Control"
+                    },
+                    {
+                      "name":"WORKING_AREA",
+                      "items":[
+                        {
+                          "name":"Business Desk",
+                          "paying":false,
+                          "code":"workdesk"
+                        }
+                      ],
+                      "label":"Working Area"
+                    },
+                    {
+                      "name":"ELECTRIC_FACILITIES",
+                      "items":[
+                        {
+                          "name":"220/240 V AC",
+                          "paying":false,
+                          "code":"220/240vaC"
+                        }
+                      ],
+                      "label":"Electric Facilities"
+                    }
+                  ]
+                }
+              ],
+              "surface":{
+
+              },
+              "configuration":[
+                {
+                  "beddings":{
+                    "doubleBed":0,
+                    "details":[
+
+                    ],
+                    "singleBed":0,
+                    "extra":{
+                      "childBed":true,
+                      "adultBed":false,
+                      "crib":true
+                    }
+                  },
+                  "maxOccupancy":{
+                    "maxChildAge":15,
+                    "adult":2,
+                    "children":1,
+                    "pax":2
+                  },
+                  "assets":[
+
+                  ],
+                  "situation":{
+                    "accessibility":false,
+                    "views":[
+
+                    ]
+                  }
+                }
+              ],
+              "description":"The Junior Suite offers an open-plan area for relaxation and well-being. Bathroom with separate bathtub and shower, bathrobe, slippers, and free Wi-Fi.",
+              "inventoryCount":9,
+              "label":"Junior Suite with one queen-size bed",
+              "classification":{
+                "type":"ROOM",
+                "standard":"STANDARD"
+              },
+              "topAmenities":[
+                "Wireless internet in your room",
+                "Coffee/tea making facilities",
+                "Satellite/cable colour TV",
+                "Business Desk",
+                "Direct dial telephone"
+              ],
+              "extendedStay":true,
+              "medias":{
+                "photos":[
+                  {
+                    "346x260":"https://www.ahstatic.com/photos/0785_rosqd_00_p_346x260.jpg"
+                  }
+                ],
+                "total":1
+              },
+              "shortLabel":"JrSuite 1 Qn bed",
+              "id":"SQD",
+              "upsells":[
+
+              ]
+            },
+            {
+              "amenities":[
+                {
+                  "name":"FOOD_AND_BEVERAGE",
+                  "facilities":[
+                    {
+                      "name":"FOOD_AND_BEVERAGE_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Coffee/tea making facilities",
+                          "paying":false,
+                          "code":"coffeeteafaciliti"
+                        },
+                        {
+                          "name":"Mini Bar",
+                          "paying":true,
+                          "code":"minibararMinib"
+                        }
+                      ],
+                      "label":"Food And Beverage Facilities"
+                    }
+                  ],
+                  "label":"Food And Beverage"
+                },
+                {
+                  "name":"BATHROOM",
+                  "amenities":[
+
+                  ],
+                  "label":"Bathroom",
+                  "facilities":[
+                    {
+                      "name":"BATHROOM_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Accessible bathroom",
+                          "paying":false,
+                          "code":"accessiblebathroombath"
+                        },
+                        {
+                          "name":"Hair dryer in bathroom",
+                          "paying":false,
+                          "code":"hairdryerb"
+                        }
+                      ],
+                      "label":"Bathroom Facilities"
+                    }
+                  ]
+                },
+                {
+                  "name":"MEDIA_AND_TECHNOLOGY",
+                  "amenities":[
+                    {
+                      "value":"phone"
+                    }
+                  ],
+                  "label":"Media And Technology",
+                  "facilities":[
+                    {
+                      "name":"TV_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Satellite/cable colour TV",
+                          "paying":false,
+                          "code":"satellitecable"
+                        },
+                        {
+                          "name":"Children's TV Channels",
+                          "paying":false,
+                          "code":"cartoontvchan"
+                        },
+                        {
+                          "name":"Music TV channels",
+                          "paying":false,
+                          "code":"musictvchanne"
+                        },
+                        {
+                          "name":"TV with on-screen billing info",
+                          "paying":false,
+                          "code":"bill"
+                        },
+                        {
+                          "name":"In-house movies",
+                          "paying":true,
+                          "code":"inhousemovies"
+                        },
+                        {
+                          "name":"Pay per view channel(s)",
+                          "paying":true,
+                          "code":"payper"
+                        }
+                      ],
+                      "label":"Tv Facilities"
+                    },
+                    {
+                      "name":"INTERNET_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Data port in room",
+                          "paying":false,
+                          "code":"dataportro"
+                        },
+                        {
+                          "name":"RJ 11 Outlet",
+                          "paying":false,
+                          "code":"rj11outletoutl"
+                        },
+                        {
+                          "name":"Wireless internet in your room",
+                          "paying":false,
+                          "code":"internetconnectivitywifi"
+                        },
+                        {
+                          "name":"RJ 45 Outlet",
+                          "paying":false,
+                          "code":"rj45outletoutl"
+                        }
+                      ],
+                      "label":"Internet Facilities"
+                    },
+                    {
+                      "name":"PHONE_FACILITIES",
+                      "items":[
+                        {
+                          "name":"Direct dial telephone",
+                          "paying":false,
+                          "code":"directdialtel"
+                        }
+                      ],
+                      "label":"Phone Facilities"
+                    },
+                    {
+                      "name":"COMPLEMENTARY_ELEMENTS",
+                      "items":[
+                        {
+                          "name":"Radio",
+                          "paying":false,
+                          "code":"radio"
+                        }
+                      ],
+                      "label":"Complementary Elements"
+                    }
+                  ]
+                },
+                {
+                  "name":"SERVICE_AND_EQUIPMENT",
+                  "amenities":[
+
+                  ],
+                  "label":"Service And Equipment",
+                  "facilities":[
+                    {
+                      "name":"ACCESSIBILITY_AND_SECURITY",
+                      "items":[
+                        {
+                          "name":"Dead bolt in rooms",
+                          "paying":false,
+                          "code":"deadboltro"
+                        },
+                        {
+                          "name":"Keycard-operated door locks",
+                          "paying":false,
+                          "code":"keycardoperatedloc"
+                        },
+                        {
+                          "name":"Emergency info in rooms",
+                          "paying":false,
+                          "code":"emergencyinforoo"
+                        },
+                        {
+                          "name":"Alarm clock",
+                          "paying":false,
+                          "code":"accandsec.alarmclockclo"
+                        },
+                        {
+                          "name":"Safe deposit box in room",
+                          "paying":false,
+                          "code":"safedepositro"
+                        },
+                        {
+                          "name":"Message alert",
+                          "paying":false,
+                          "code":"messagealert"
+                        }
+                      ],
+                      "label":"Accessibility And Security"
+                    },
+                    {
+                      "name":"ROOM_SERVICES",
+                      "items":[
+                        {
+                          "name":"Automatic wake up call",
+                          "paying":false,
+                          "code":"automaticwakeca"
+                        },
+                        {
+                          "name":"Breakfast in bed",
+                          "paying":false,
+                          "code":"breakfastinbe"
+                        },
+                        {
+                          "name":"Operator wake up call",
+                          "paying":false,
+                          "code":"operatorwakeca"
+                        }
+                      ],
+                      "label":"Room Services"
+                    },
+                    {
+                      "name":"COMFORT_FEATURES",
+                      "items":[
+                        {
+                          "name":"Soundproof doors",
+                          "paying":false,
+                          "code":"soundproofdoorsdoor"
+                        },
+                        {
+                          "name":"Double Glazing",
+                          "paying":false,
+                          "code":"doubleGlazingGlazi"
+                        },
+                        {
+                          "name":"Alarm clock",
+                          "paying":false,
+                          "code":"alarmclockclo"
+                        },
+                        {
+                          "name":"Blackout Facilities",
+                          "paying":false,
+                          "code":"blackoutFacilitiesFacili"
+                        },
+                        {
+                          "name":"Soundproof room",
+                          "paying":false,
+                          "code":"soundproofedroomro"
+                        }
+                      ],
+                      "label":"Comfort Features"
+                    },
+                    {
+                      "name":"TEMPERATURE_AIR_CONTROL",
+                      "items":[
+                        {
+                          "name":"Air Conditioning",
+                          "paying":false,
+                          "code":"airconditioningndairconditioning"
+                        }
+                      ],
+                      "label":"Temperature Air Control"
+                    },
+                    {
+                      "name":"WORKING_AREA",
+                      "items":[
+                        {
+                          "name":"Business Desk",
+                          "paying":false,
+                          "code":"workdesk"
+                        }
+                      ],
+                      "label":"Working Area"
+                    },
+                    {
+                      "name":"ELECTRIC_FACILITIES",
+                      "items":[
+                        {
+                          "name":"220/240 V AC",
+                          "paying":false,
+                          "code":"220/240vaC"
+                        }
+                      ],
+                      "label":"Electric Facilities"
+                    }
+                  ]
+                }
+              ],
+              "surface":{
+
+              },
+              "configuration":[
+                {
+                  "beddings":{
+                    "doubleBed":1,
+                    "details":[
+
+                    ],
+                    "singleBed":0,
+                    "extra":{
+                      "childBed":true,
+                      "adultBed":false,
+                      "crib":true
+                    }
+                  },
+                  "maxOccupancy":{
+                    "maxChildAge":15,
+                    "adult":4,
+                    "children":3,
+                    "pax":4
+                  },
+                  "assets":[
+
+                  ],
+                  "situation":{
+                    "accessibility":true,
+                    "views":[
+                      "GARDEN_SIDE",
+                      "LAGOON_VIEW",
+                      "PANORAMA_VIEW",
+                      "POOL_SIDE",
+                      "HISTORIC_SIDE_VIEW",
+                      "SEA_SIDE"
+                    ]
+                  }
+                }
+              ],
+              "description":"Our large, stylish Suite boasts two separate rooms: a bedroom and lounge area, and a bathroom with separate bathtub and shower. With bathrobe, slippers, and free Wi-Fi.",
+              "inventoryCount":5,
+              "label":"Superior Suite with one queen size bed and sofa",
+              "classification":{
+                "type":"ROOM",
+                "standard":"STANDARD"
+              },
+              "topAmenities":[
+                "Wireless internet in your room",
+                "Coffee/tea making facilities",
+                "Satellite/cable colour TV",
+                "Business Desk",
+                "Direct dial telephone"
+              ],
+              "extendedStay":true,
+              "medias":{
+                "photos":[
+                  {
+                    "346x260":"https://www.ahstatic.com/photos/0785_roscj_00_p_346x260.jpg"
+                  }
+                ],
+                "total":1
+              },
+              "shortLabel":"Suite 1Qn bed + Sofa Sup",
+              "id":"SCJ",
+              "upsells":[
+
+              ]
+            }
+          ],
+          "amenity":{
+            "free":[
+              {
+                "code":"AIR_CONDITIONING",
+                "label":"Air conditioning",
+                "category":{
+                  "code":"HOTEL_EQUIPMENT_SERVICE",
+                  "label":"Hotel Services And Equipments"
+                },
+                "top":{
+                  "code":"AIR_CONDITIONING",
+                  "label":"Air conditioning",
+                  "order":8
+                }
+              },
+              {
+                "code":"BABY_SITTING",
+                "label":"Babysitting on request",
+                "category":{
+                  "code":"FAMILY",
+                  "label":"Family"
+                }
+              },
+              {
+                "code":"BAR",
+                "label":"Bar",
+                "category":{
+                  "code":"F&B",
+                  "label":"Catering services"
+                },
+                "top":{
+                  "code":"BAR",
+                  "label":"Bar",
+                  "order":11
+                }
+              },
+              {
+                "code":"CHILD_FACILITIES",
+                "label":"Services for children",
+                "category":{
+                  "code":"FAMILY",
+                  "label":"Family"
+                }
+              },
+              {
+                "code":"MEETING_ROOMS",
+                "label":"Meeting rooms",
+                "category":{
+                  "code":"MEETING_EVENT",
+                  "label":"Meetings/Events"
+                },
+                "top":{
+                  "code":"MEETING_ROOMS",
+                  "label":"Meeting rooms",
+                  "order":12
+                }
+              },
+              {
+                "code":"PARKING",
+                "label":"Car park",
+                "category":{
+                  "code":"ACCESS_TRANSPORTATION",
+                  "label":"Access to property"
+                },
+                "top":{
+                  "code":"PARKING",
+                  "label":"Car park",
+                  "order":2
+                }
+              },
+              {
+                "code":"POOL",
+                "label":"Swimming pool",
+                "category":{
+                  "code":"WELLBEING",
+                  "label":"Well-being"
+                },
+                "top":{
+                  "code":"POOL",
+                  "label":"Swimming pool",
+                  "order":1
+                }
+              },
+              {
+                "code":"PRIVATIVE_BATHROOM",
+                "label":"Private bathroom",
+                "category":{
+                  "code":"ROOM_EQUIPMENT",
+                  "label":"Room Services And Equipments"
+                }
+              },
+              {
+                "code":"RESTAURANT",
+                "label":"Restaurant",
+                "category":{
+                  "code":"F&B",
+                  "label":"Catering services"
+                },
+                "top":{
+                  "code":"RESTAURANT",
+                  "label":"Restaurant",
+                  "order":5
+                }
+              },
+              {
+                "code":"SPA",
+                "label":"Spa bath",
+                "category":{
+                  "code":"WELLBEING",
+                  "label":"Well-being"
+                },
+                "top":{
+                  "code":"WELLBEING",
+                  "label":"Well-being",
+                  "order":7
+                }
+              },
+              {
+                "code":"WHEELCHAIR_ACCESS",
+                "label":"Wheelchair accessible hotel",
+                "category":{
+                  "code":"ACCESSIBILITY",
+                  "label":"Accessibility"
+                },
+                "top":{
+                  "code":"WHEELCHAIR_ACCESS",
+                  "label":"Wheelchair accessible hotel",
+                  "order":6
+                }
+              }
+            ],
+            "paying":[
+              {
+                "code":"WIFI",
+                "label":"Wi-Fi",
+                "category":{
+                  "code":"HOTEL_EQUIPMENT_SERVICE",
+                  "label":"Hotel Services And Equipments"
+                },
+                "top":{
+                  "code":"WIFI",
+                  "label":"Wi-Fi",
+                  "order":9
+                }
+              }
+            ]
+          },
+          "rating":{
+            "star":{
+              "score":6.5
+            },
+            "tripadvisor":{
+              "nbReviews":6436,
+              "score":4.5
+            }
+          },
+          "checkOutHour":"12:00",
+          "description":"The Novotel Paris Les Halles is a four-star hotel located in the Les Halles area of central Paris. It enjoys direct access to the city's airports and tourist attractions (Eiffel Tower, Disneyland Paris etc.) from Châtelet-Les Halles station. The hotel has  air-conditioned rooms, a restaurant, a bar and eight meeting rooms. A public car park is also available. Ideal for a business trip or a vacation with your partner or family.",
+          "scale":{
+            "code":"FI",
+            "label":"Midscale"
+          },
+          "checkInHour":"14:00",
+          "media":{
+            "count":9,
+            "medias":[
+              {
+                "346x260":"https://www.ahstatic.com/photos/0785v00.jpg",
+                "80x80":"https://www.ahstatic.com/photos/0785_ho_00_p_80x80.jpg",
+                "120x90":"https://www.ahstatic.com/photos/0785e00.jpg",
+                "953x385":"https://www.ahstatic.com/photos/0785_ho_00_p_953x385.jpg"
+              },
+              {
+                "120x90":"https://www.ahstatic.com/photos/0785e01.jpg",
+                "346x260":"https://www.ahstatic.com/photos/0785v01.jpg"
+              }
+            ]
+          },
+          "type":"MG",
+          "checkin":{
+            "available":false
+          },
+          "enhancedDescription":"The Novotel Paris les Halles boasts a perfect location in the heart of Paris, close to several historical sites. You'll be within walking distance of the Louvre, Notre Dame, Beaubourg and the Tuileries for a pleasant stroll around Paris.",
+          "contact":{
+            "phonePrefix":"33",
+            "faxPrefix":"33",
+            "fax":"1/40260579",
+            "mail":"guillaume.bulart@consulting-for.accor.com",
+            "phone":"1/42213131",
+            "generalManager":{
+              "firstName":"Mr Julien DONZEL",
+              "lastName":"Mr Julien DONZEL"
+            }
+          },
+          "lastRenovationDate":"2005-01-01",
+          "factsheetUrl":"https://all.accor.com/hotel/0785/index.en.shtml",
+          "id":"0785",
+          "seo":{
+            "description":"The Novotel Paris Les Halles is a 4-star hotel situated in central Paris. With the transport hub of the city just at the front of the hotel, major tourist attractions like the Eiffel Tower, Champs Elysees and various museums, are just minutes away with the metro. The nightlife, shopping and dining options around the hotel are numerous. However, the hotel Novotel Paris Les Halles also offers a splendid view over the Les Halles garden from the restaurant atrium. Enjoy your stay in the center of Paris !"
+          },
+          "brand":{
+            "code":"NOV",
+            "label":"Novotel"
+          },
+          "croCode":"0LT",
+          "lodging":{
+            "code":"HTL",
+            "label":"Hotel"
+          },
+          "chain":{
+            "code":"NOV",
+            "label":"Novotel"
+          },
+          "seoDescription":"The Novotel Paris Les Halles is a 4-star hotel situated in central Paris. With the transport hub of the city just at the front of the hotel, major tourist attractions like the Eiffel Tower, Champs Elysees and various museums, are just minutes away with the metro. The nightlife, shopping and dining options around the hotel are numerous. However, the hotel Novotel Paris Les Halles also offers a splendid view over the Les Halles garden from the restaurant atrium. Enjoy your stay in the center of Paris !",
+          "label":[
+            {
+              "code":"FASTCOM",
+              "label":"Fastcom"
+            },
+            {
+              "code":"SUITE_NIGHT_UPGRADE",
+              "label":"Suite Night upgrade"
+            },
+            {
+              "code":"EXTENDED_STAY"
+            },
+            {
+              "code":"BEST_PRICE_GUARANTEE",
+              "label":"Best Price Guarantee"
+            }
+          ],
+          "loyaltyProgram":{
+            "memberRate":true,
+            "huazhuRewards":false,
+            "advantageAllowed":true,
+            "burnAllowed":true,
+            "earnAllowed":true,
+            "status":"PARTICIPATING_HOTEL"
+          },
+          "paymentMeans":[
+            {
+              "items":[
+                {
+                  "surcharge":0,
+                  "types":[
+                    "PREPAYMENT",
+                    "GUARANTEE"
+                  ],
+                  "code":"AX",
+                  "installments":[
+
+                  ],
+                  "name":"American Express",
+                  "rank":3,
+                  "family":"CC"
+                },
+                {
+                  "surcharge":0,
+                  "types":[
+                    "PREPAYMENT",
+                    "GUARANTEE"
+                  ],
+                  "code":"DC",
+                  "installments":[
+
+                  ],
+                  "name":"Diners Club",
+                  "rank":4,
+                  "family":"CC"
+                },
+                {
+                  "surcharge":0,
+                  "types":[
+                    "PREPAYMENT",
+                    "GUARANTEE"
+                  ],
+                  "code":"VI",
+                  "installments":[
+
+                  ],
+                  "name":"Visa",
+                  "rank":17,
+                  "family":"CC"
+                },
+                {
+                  "surcharge":0,
+                  "types":[
+                    "PREPAYMENT",
+                    "GUARANTEE"
+                  ],
+                  "code":"CA",
+                  "installments":[
+
+                  ],
+                  "name":"Mastercard",
+                  "rank":19,
+                  "family":"CC"
+                }
+              ],
+              "program":"WEB"
+            },
+            {
+              "items":[
+                {
+                  "surcharge":0,
+                  "types":[
+                    "PREPAYMENT",
+                    "GUARANTEE"
+                  ],
+                  "code":"AX",
+                  "installments":[
+
+                  ],
+                  "name":"American Express",
+                  "rank":3,
+                  "family":"CC"
+                },
+                {
+                  "surcharge":0,
+                  "types":[
+                    "PREPAYMENT",
+                    "GUARANTEE"
+                  ],
+                  "code":"VI",
+                  "installments":[
+
+                  ],
+                  "name":"Visa",
+                  "rank":17,
+                  "family":"CC"
+                },
+                {
+                  "surcharge":0,
+                  "types":[
+                    "PREPAYMENT",
+                    "GUARANTEE"
+                  ],
+                  "code":"CA",
+                  "installments":[
+
+                  ],
+                  "name":"Mastercard",
+                  "rank":19,
+                  "family":"CC"
+                }
+              ],
+              "program":"MOBILE"
+            }
+          ],
+          "name":"SME - Novotel Paris Les Halles",
+          "roomOccupancy":{
+            "maxRoom":7,
+            "maxAdult":4,
+            "maxChild":2,
+            "maxChildAge":15,
+            "maxPax":4
+          },
+          "currencyCode":"EUR",
+          "status":"OPEN",
+          "currency":{
+            "code":"EUR",
+            "symbol":"€",
+            "euroRate":1,
+            "label":"EURO"
+          }
+        },
+        "reservation":{
+          "roomStays":[
+            {
+              "primaryTkpk":{
+                "typeCode":"RA",
+                "code":"E01"
+              },
+              "offerComponent":{
+                "amounts":{
+                  "grossPriceExcludingTaxes":{
+                    "currencyCode":"EUR",
+                    "value":"64.49"
+                  },
+                  "netPriceExcludingTaxes":{
+                    "currencyCode":"EUR",
+                    "value":"64.49"
+                  },
+                  "tarsPriceAndVat":{
+                    "currencyCode":"EUR",
+                    "value":"69.00"
+                  },
+                  "netPriceIncludingTaxes":{
+                    "currencyCode":"EUR",
+                    "value":"79.00"
+                  },
+                  "tarsPrice":{
+                    "currencyCode":"EUR",
+                    "value":"69.00"
+                  },
+                  "grossPriceIncludingTaxes":{
+                    "currencyCode":"EUR",
+                    "value":"79.00"
+                  }
+                },
+                "productOrder":0,
+                "product":{
+                  "code":"QSB",
+                  "amenities":[
+                    {
+                      "name":"FOOD_AND_BEVERAGE",
+                      "facilities":[
+                        {
+                          "name":"FOOD_AND_BEVERAGE_FACILITIES",
+                          "items":[
+                            {
+                              "name":"Coffee/tea making facilities",
+                              "paying":false,
+                              "code":"coffeeteafaciliti"
+                            },
+                            {
+                              "name":"Mini Bar",
+                              "paying":true,
+                              "code":"minibararMinib"
+                            }
+                          ],
+                          "label":"Food And Beverage Facilities"
+                        }
+                      ],
+                      "label":"Food And Beverage"
+                    },
+                    {
+                      "name":"BATHROOM",
+                      "amenities":[
+                        {
+                          "value":"Separate toilet area",
+                          "code":"TOILET_TYPE004"
+                        },
+                        {
+                          "value":"Private bathroom",
+                          "code":"PRIVATE_BATHROOM"
+                        }
+                      ],
+                      "label":"Bathroom",
+                      "facilities":[
+                        {
+                          "name":"BATHROOM_FACILITIES",
+                          "items":[
+                            {
+                              "name":"Accessible bathroom",
+                              "paying":false,
+                              "code":"accessiblebathroombath"
+                            },
+                            {
+                              "name":"Hair dryer in bathroom",
+                              "paying":false,
+                              "code":"hairdryerb"
+                            }
+                          ],
+                          "label":"Bathroom Facilities"
+                        }
+                      ]
+                    },
+                    {
+                      "name":"MEDIA_AND_TECHNOLOGY",
+                      "amenities":[
+                        {
+                          "value":"phone"
+                        }
+                      ],
+                      "label":"Media And Technology",
+                      "facilities":[
+                        {
+                          "name":"TV_FACILITIES",
+                          "items":[
+                            {
+                              "name":"Satellite/cable colour TV",
+                              "paying":false,
+                              "code":"satellitecable"
+                            },
+                            {
+                              "name":"Children's TV Channels",
+                              "paying":false,
+                              "code":"cartoontvchan"
+                            },
+                            {
+                              "name":"Music TV channels",
+                              "paying":false,
+                              "code":"musictvchanne"
+                            },
+                            {
+                              "name":"TV with on-screen billing info",
+                              "paying":false,
+                              "code":"bill"
+                            },
+                            {
+                              "name":"In-house movies",
+                              "paying":true,
+                              "code":"inhousemovies"
+                            },
+                            {
+                              "name":"Pay per view channel(s)",
+                              "paying":true,
+                              "code":"payper"
+                            }
+                          ],
+                          "label":"Tv Facilities"
+                        },
+                        {
+                          "name":"INTERNET_FACILITIES",
+                          "items":[
+                            {
+                              "name":"Data port in room",
+                              "paying":false,
+                              "code":"dataportro"
+                            },
+                            {
+                              "name":"RJ 11 Outlet",
+                              "paying":false,
+                              "code":"rj11outletoutl"
+                            },
+                            {
+                              "name":"Wireless internet in your room",
+                              "paying":false,
+                              "code":"internetconnectivitywifi"
+                            },
+                            {
+                              "name":"RJ 45 Outlet",
+                              "paying":false,
+                              "code":"rj45outletoutl"
+                            }
+                          ],
+                          "label":"Internet Facilities"
+                        },
+                        {
+                          "name":"PHONE_FACILITIES",
+                          "items":[
+                            {
+                              "name":"Direct dial telephone",
+                              "paying":false,
+                              "code":"directdialtel"
+                            }
+                          ],
+                          "label":"Phone Facilities"
+                        },
+                        {
+                          "name":"COMPLEMENTARY_ELEMENTS",
+                          "items":[
+                            {
+                              "name":"Radio",
+                              "paying":false,
+                              "code":"radio"
+                            }
+                          ],
+                          "label":"Complementary Elements"
+                        }
+                      ]
+                    },
+                    {
+                      "name":"SERVICE_AND_EQUIPMENT",
+                      "amenities":[
+
+                      ],
+                      "label":"Service And Equipment",
+                      "facilities":[
+                        {
+                          "name":"ACCESSIBILITY_AND_SECURITY",
+                          "items":[
+                            {
+                              "name":"Dead bolt in rooms",
+                              "paying":false,
+                              "code":"deadboltro"
+                            },
+                            {
+                              "name":"Keycard-operated door locks",
+                              "paying":false,
+                              "code":"keycardoperatedloc"
+                            },
+                            {
+                              "name":"Emergency info in rooms",
+                              "paying":false,
+                              "code":"emergencyinforoo"
+                            },
+                            {
+                              "name":"Alarm clock",
+                              "paying":false,
+                              "code":"accandsec.alarmclockclo"
+                            },
+                            {
+                              "name":"Safe deposit box in room",
+                              "paying":false,
+                              "code":"safedepositro"
+                            },
+                            {
+                              "name":"Message alert",
+                              "paying":false,
+                              "code":"messagealert"
+                            }
+                          ],
+                          "label":"Accessibility And Security"
+                        },
+                        {
+                          "name":"ROOM_SERVICES",
+                          "items":[
+                            {
+                              "name":"Automatic wake up call",
+                              "paying":false,
+                              "code":"automaticwakeca"
+                            },
+                            {
+                              "name":"Breakfast in bed",
+                              "paying":false,
+                              "code":"breakfastinbe"
+                            },
+                            {
+                              "name":"Operator wake up call",
+                              "paying":false,
+                              "code":"operatorwakeca"
+                            }
+                          ],
+                          "label":"Room Services"
+                        },
+                        {
+                          "name":"COMFORT_FEATURES",
+                          "items":[
+                            {
+                              "name":"Soundproof doors",
+                              "paying":false,
+                              "code":"soundproofdoorsdoor"
+                            },
+                            {
+                              "name":"Double Glazing",
+                              "paying":false,
+                              "code":"doubleGlazingGlazi"
+                            },
+                            {
+                              "name":"Alarm clock",
+                              "paying":false,
+                              "code":"alarmclockclo"
+                            },
+                            {
+                              "name":"Blackout Facilities",
+                              "paying":false,
+                              "code":"blackoutFacilitiesFacili"
+                            },
+                            {
+                              "name":"Soundproof room",
+                              "paying":false,
+                              "code":"soundproofedroomro"
+                            }
+                          ],
+                          "label":"Comfort Features"
+                        },
+                        {
+                          "name":"TEMPERATURE_AIR_CONTROL",
+                          "items":[
+                            {
+                              "name":"Air Conditioning",
+                              "paying":false,
+                              "code":"airconditioningndairconditioning"
+                            }
+                          ],
+                          "label":"Temperature Air Control"
+                        },
+                        {
+                          "name":"WORKING_AREA",
+                          "items":[
+                            {
+                              "name":"Business Desk",
+                              "paying":false,
+                              "code":"workdesk"
+                            }
+                          ],
+                          "label":"Working Area"
+                        },
+                        {
+                          "name":"ELECTRIC_FACILITIES",
+                          "items":[
+                            {
+                              "name":"220/240 V AC",
+                              "paying":false,
+                              "code":"220/240vaC"
+                            }
+                          ],
+                          "label":"Electric Facilities"
+                        }
+                      ]
+                    }
+                  ],
+                  "surface":{
+                    "squareMeter":16,
+                    "squareFeet":172
+                  },
+                  "configuration":[
+                    {
+                      "beddings":{
+                        "doubleBed":1,
+                        "details":[
+                          {
+                            "type":"SINGLE_SOFA_BED",
+                            "quantity":1
+                          },
+                          {
+                            "type":"QUEEN_SIZE_BED",
+                            "quantity":1
+                          }
+                        ],
+                        "singleBed":0,
+                        "extra":{
+                          "childBed":true,
+                          "adultBed":false,
+                          "crib":true
+                        }
+                      },
+                      "maxOccupancy":{
+                        "maxChildAge":15,
+                        "adult":3,
+                        "children":2,
+                        "pax":3
+                      },
+                      "assets":[
+                        "BALCONY"
+                      ],
+                      "situation":{
+                        "accessibility":true,
+                        "views":[
+                          "GARDEN_SIDE"
+                        ]
+                      }
+                    }
+                  ],
+                  "description":"Combine work and relaxation in complete serenity. Our Superior Room blends modernity, ergonomics and high-tech equipment: tea and coffee making facilities, minibar and free dial-up Internet. High-speed connection: EUR 12 for 24h. For up to three people",
+                  "inventoryCount":131,
+                  "label":"Superior Room with one queen-size bed and sofa",
+                  "classification":{
+                    "type":"ROOM",
+                    "standard":"SUPERIOR"
+                  },
+                  "topAmenities":[
+                    "Wireless internet in your room",
+                    "Coffee/tea making facilities",
+                    "Satellite/cable colour TV",
+                    "Business Desk",
+                    "Direct dial telephone"
+                  ],
+                  "extendedStay":true,
+                  "medias":{
+                    "photos":[
+                      {
+                        "1024x768":"https://www.ahstatic.com/photos/0785_roqsb_00_p_1024x768.jpg",
+                        "346x260":"https://www.ahstatic.com/photos/0785_roqsb_00_p_346x260.jpg"
+                      },
+                      {
+                        "346x260":"https://www.ahstatic.com/photos/0785_roqsb_01_p_346x260.jpg"
+                      },
+                      {
+                        "1024x768":"https://www.ahstatic.com/photos/0785_roqsb_02_p_1024x768.jpg",
+                        "346x260":"https://www.ahstatic.com/photos/0785_roqsb_02_p_346x260.jpg"
+                      }
+                    ],
+                    "total":3
+                  },
+                  "shortLabel":"1 Qn bed + Sofa Sup",
+                  "id":"QSB",
+                  "floorSpace":{
+                    "value":16,
+                    "unit":"SQUARE_METER"
+                  },
+                  "upsells":[
+                    "QEE"
+                  ]
+                }
+              },
+              "quantity":1
+            }
+          ],
+          "welcomeInfo":{
+            "sms":false,
+            "welcomeUrl":"",
+            "checkinStatus":"NO",
+            "preAuthorizationStatus":"NO"
+          },
+          "stayInfo":{
+            "nightCount":1,
+            "childCount":0,
+            "departureDate":"2023-04-02",
+            "adultCount":1,
+            "purposeOfStay":"PERSONAL",
+            "arrivalDate":"2023-04-01"
+          },
+          "type":"INDIVIDUAL",
+          "amounts":{
+            "feesAmount":{
+              "currencyCode":"EUR",
+              "value":"10.00"
+            },
+            "tarsPriceAndVat":{
+              "currencyCode":"EUR",
+              "value":"69.00"
+            },
+            "totalSalesRevenue":{
+              "currencyCode":"EUR",
+              "value":"69.00"
+            },
+            "grossPriceExcludingTaxes":{
+              "currencyCode":"EUR",
+              "value":"64.49"
+            },
+            "netPriceExcludingTaxes":{
+              "currencyCode":"EUR",
+              "value":"64.49"
+            },
+            "netPriceIncludingTaxes":{
+              "currencyCode":"EUR",
+              "value":"79.00"
+            },
+            "tarsPrice":{
+              "currencyCode":"EUR",
+              "value":"69.00"
+            },
+            "grossPriceIncludingTaxes":{
+              "currencyCode":"EUR",
+              "value":"79.00"
+            }
+          },
+          "codeSegment":"TH"
+        },
+        "latestVersionId":"2304010501",
+        "loyaltySimulationPoints":{
+          "totalStatusPoints":173,
+          "campaignOperation":[
+            {
+              "animationName":"Earn Hotellerie Socle 2 Loyalty ",
+              "ruleName":"AClub.Earn.hospitality.base.2.loyalty.rule",
+              "campaignCode":"EARN_HOTEL",
+              "points":173
+            }
+          ],
+          "cardNumber":"3081031642931415",
+          "totalRewardsPoints":173
+        },
+        "beneficiaries":{
+          "invoiced":{
+            "language":"GB",
+            "contactMedium":{
+              "number":"123456789",
+              "phoneType":"MOBILE",
+              "email":"toto@yopmail.fr",
+              "countryCode":"FR",
+              "prefix":"33"
+            }
+          },
+          "guest":{
+            "names":{
+              "title":"MR",
+              "firstName":"toto",
+              "lastName":"toto"
+            }
+          },
+          "mainBeneficiary":{
+            "language":"GB",
+            "contactMedium":{
+              "number":"123456789",
+              "phoneType":"MOBILE",
+              "countryName":"FRANCE",
+              "email":"toto@yopmail.fr",
+              "countryCode":"FR",
+              "prefix":"33"
+            },
+            "names":{
+              "title":"MR",
+              "firstName":"Toto",
+              "lastName":"toto"
+            },
+            "cards":{
+              "type":"A1",
+              "number":"3081031642931415",
+              "cardHolderName":"TOTO"
+            },
+            "pmid":"64293141",
+            "nationality":"FR"
+          }
+        },
+        "salesConditions":[
+          {
+            "code":"BOOPER",
+            "productCode":"QSB",
+            "tarsKeyCode":"E01",
+            "publicationLevel":"0",
+            "tarsKeyTypeCode":"RA",
+            "end":"2023-04-02T00:00:00.000Z",
+            "label":"The booking period is opened between 999 and 21 days before check in date.",
+            "languageCode":"GB",
+            "begin":"2023-04-01T00:00:00.000Z"
+          },
+          {
+            "code":"CANPOL",
+            "productCode":"QSB",
+            "tarsKeyCode":"E01",
+            "publicationLevel":"2",
+            "tarsKeyTypeCode":"RA",
+            "end":"2023-04-02T00:00:00.000Z",
+            "label":"The amount due is not refundable even if the booking is cancelled or modified..",
+            "languageCode":"GB",
+            "begin":"2023-04-01T00:00:00.000Z"
+          },
+          {
+            "code":"CINPOL",
+            "productCode":"QSB",
+            "tarsKeyCode":"E01",
+            "publicationLevel":"2",
+            "tarsKeyTypeCode":"RA",
+            "end":"2023-04-02T00:00:00.000Z",
+            "label":"The room is available from 14:00.",
+            "languageCode":"GB",
+            "begin":"2023-04-01T00:00:00.000Z"
+          },
+          {
+            "code":"COUPOL",
+            "productCode":"QSB",
+            "tarsKeyCode":"E01",
+            "publicationLevel":"2",
+            "tarsKeyTypeCode":"RA",
+            "end":"2023-04-02T00:00:00.000Z",
+            "label":"The room must be vacated by 12:00 at the latest except in case of Late Check Out.",
+            "languageCode":"GB",
+            "begin":"2023-04-01T00:00:00.000Z"
+          }
+        ],
+        "guaranty":{
+          "guarantyMedium":{
+            "type":"CREDIT_CARD",
+            "cardHolderName":"toto",
+            "cardNumber":"************1111",
+            "expirationDate":"0726"
+          },
+          "code":"VI",
+          "label":"Visa",
+          "familyCode":"CC",
+          "familyLabel":"Credit card"
+        },
+        "status":"ACTIVE_INITIAL"
+      }
+    }
+  ]
+}
